@@ -33,7 +33,7 @@ const Layout = ({ children }) => {
                   <div className="rounded-full w-12 h-12 flex items-center justify-center mr-4">
                     <img
                       className="w-full h-full fill-current"
-                      src="/logo-black.png"
+                      src="/logo.svg"
                       role="presentation"
                     />
                   </div>
