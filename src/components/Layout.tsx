@@ -102,7 +102,6 @@ const Layout = ({ children }) => {
         <div className="py-6 border-t border-gray-100 text-center flex flex-col md:flex-row items-center justify-between">
           <p className="text-gray-600 text-sm">
             Powered by Swaggly
-            </a>
           </p>
           <nav className="flex items-center justify-end space-x-3 md:space-x-6">
             <Link href="/about">
